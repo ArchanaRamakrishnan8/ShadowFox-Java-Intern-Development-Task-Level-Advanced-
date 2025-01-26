@@ -1,5 +1,7 @@
 🚀 Real-Time Chat Application Built with Java Socket Programming 🗣️
+
 Excited to share a recent project I worked on: a Real-Time Chat Application built using Java Socket Programming! 🎉
+
 Project Description:
 
 This Real-Time Chat Application enables multiple users to join a common chat room, send and receive messages instantly. It uses Java and Socket Programming to implement a client-server architecture where the server handles multiple clients and broadcasts messages in real-time.
